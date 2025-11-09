@@ -88,3 +88,4 @@ BTV北京卫视,http://39.77.79.216:85/tsfile/live/0002_61.m3u8?key=txiptv&playl
 CHC动作电影,http://39.77.79.216:85/tsfile/live/0002_68.m3u8?key=txiptv&playlive=1&authid=0
 海看教育,http://39.77.79.216:85/tsfile/live/0002_69.m3u8?key=txiptv&playlive=1&authid=0
 海看演艺,http://39.77.79.216:85/tsfile/live/0002_70.m3u8?key=txiptv&playlive=1&authid=0
+test
